@@ -28,3 +28,8 @@ true + false // 1
 "  -9\n" - 5 //-14
 null + 1 //1
 undefined + 1 // NaN
+
+let a = 1, b = 1;
+
+let c = ++a; // 2
+let d = b++; // 1
