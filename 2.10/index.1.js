@@ -1,1 +1,0 @@
-alert('No test this lesson!');
